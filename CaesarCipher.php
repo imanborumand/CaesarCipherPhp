@@ -1,4 +1,4 @@
-<?php namespace App\Classes;
+<?php
 
 /*
  * How to use:
